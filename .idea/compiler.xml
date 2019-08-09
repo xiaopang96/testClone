@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dispartch-demo-comm" />
+        <module name="dispartch-demo-dao" />
+        <module name="dispartch-demo-login-dao" />
+        <module name="dispartch-demo-login-interface" />
+        <module name="dispartch-demo-login-pojo" />
+        <module name="dispartch-demo-login-service" />
+        <module name="dispartch-demo-login-web" />
+        <module name="dispartch-demo-pojo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dispartch-demo-comm" target="1.6" />
+      <module name="dispartch-demo-dao" target="1.6" />
+      <module name="dispartch-demo-login" target="1.6" />
+      <module name="dispartch-demo-login-dao" target="1.6" />
+      <module name="dispartch-demo-login-interface" target="1.6" />
+      <module name="dispartch-demo-login-pojo" target="1.6" />
+      <module name="dispartch-demo-login-service" target="1.6" />
+      <module name="dispartch-demo-login-web" target="1.6" />
+      <module name="dispartch-demo-parent" target="1.6" />
+      <module name="dispartch-demo-pojo" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

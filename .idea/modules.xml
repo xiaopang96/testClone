@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dispartch-demo-comm/dispartch-demo-comm.iml" filepath="$PROJECT_DIR$/dispartch-demo-comm/dispartch-demo-comm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dispartch-demo-dao/dispartch-demo-dao.iml" filepath="$PROJECT_DIR$/dispartch-demo-dao/dispartch-demo-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dispartch-demo-login/dispartch-demo-login.iml" filepath="$PROJECT_DIR$/dispartch-demo-login/dispartch-demo-login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dispartch-demo-login/dispartch-demo-login-dao/dispartch-demo-login-dao.iml" filepath="$PROJECT_DIR$/dispartch-demo-login/dispartch-demo-login-dao/dispartch-demo-login-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dispartch-demo-login/dispartch-demo-login-interface/dispartch-demo-login-interface.iml" filepath="$PROJECT_DIR$/dispartch-demo-login/dispartch-demo-login-interface/dispartch-demo-login-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dispartch-demo-login/dispartch-demo-login-pojo/dispartch-demo-login-pojo.iml" filepath="$PROJECT_DIR$/dispartch-demo-login/dispartch-demo-login-pojo/dispartch-demo-login-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dispartch-demo-login/dispartch-demo-login-service/dispartch-demo-login-service.iml" filepath="$PROJECT_DIR$/dispartch-demo-login/dispartch-demo-login-service/dispartch-demo-login-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dispartch-demo-login/dispartch-demo-login-web/dispartch-demo-login-web.iml" filepath="$PROJECT_DIR$/dispartch-demo-login/dispartch-demo-login-web/dispartch-demo-login-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dispartch-demo-parent.iml" filepath="$PROJECT_DIR$/dispartch-demo-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dispartch-demo-pojo/dispartch-demo-pojo.iml" filepath="$PROJECT_DIR$/dispartch-demo-pojo/dispartch-demo-pojo.iml" />
+    </modules>
+  </component>
+</project>
